@@ -1,2 +1,2 @@
 # practice-labs
-storage for uni practice labs: pentesting, VMs, system security
+Storage for uni practice lab reports: pentesting, VMs, system security and malware analysis. In pdfs.
